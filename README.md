@@ -41,7 +41,7 @@ WAYS TO GREAT THINGS
 
 2) Explore our dedicated website: https://gads17.github.io/eProject_G6_Astronomy/
 
-3) Review - Documents: 
+3) Review - Documents: https://www.mediafire.com/folder/1won9jch4lh9g/Documents
 
 4) Backup Files: 
 
