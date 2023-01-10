@@ -39,7 +39,7 @@ WAYS TO GREAT THINGS
 
 1) Trailer: https://youtu.be/P7UZjnPeYVc
 
-2) Explore our dedicated website: 
+2) Explore our dedicated website: https://gads17.github.io/eProject_G6_Astronomy/
 
 3) Review - Documents: 
 
