@@ -5,6 +5,7 @@
 }
 
 .hinh{
+    text-align: center;
     width: 40%;
     display: flex;
     justify-content: center;
