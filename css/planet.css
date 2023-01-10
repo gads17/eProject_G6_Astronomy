@@ -1,0 +1,30 @@
+.til{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+
+.hinh{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+.cont{
+    font-size: 40px;
+    color: white;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.info{
+    color: white;
+    font-size: 30px;
+    border-top: double;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+body{
+    background-image: url('../img/milky-way.jpg');
+}
