@@ -37,7 +37,7 @@ The Website is to be created based on the following requirements:
 WAYS TO GREAT THINGS
 *************************************
 
-1) Trailer: 
+1) Trailer: https://youtu.be/P7UZjnPeYVc
 
 2) Explore our dedicated website: 
 
