@@ -37,13 +37,13 @@ The Website is to be created based on the following requirements:
 WAYS TO GREAT THINGS
 *************************************
 
-1) Trailer: https://www.youtube.com/watch?v=mazuJ-lh39w
+1) Trailer: 
 
-2) Explore our dedicated website: https://naymihtah.github.io/blackandblue/#!/
+2) Explore our dedicated website: 
 
-3) Review - Documents: https://www.mediafire.com/folder/4rgc8prnpnjtk/review-documents
+3) Review - Documents: 
 
-4) Backup Files: https://www.mediafire.com/file/w5m7ucnqbk5ny8u/G5_Black_And_Blue.rar/file
+4) Backup Files: 
 
 *************************************
 COLLABORATORS
